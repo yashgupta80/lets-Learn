@@ -4,7 +4,7 @@ public class sum {
         int b = 20;
         int c = a+b;
 
-        System.out.println(c);
+        System.out.println("sum is " + c);
 
     }
 }
